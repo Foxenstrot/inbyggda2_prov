@@ -29,3 +29,4 @@ else:
     parallellresistans = 1/parallellresistans
     print(f'\nTotal serieresistans: {serieresistans}')
     print(f'Total parallellresistans: {parallellresistans}')
+    print(f'Good byyyyye')
